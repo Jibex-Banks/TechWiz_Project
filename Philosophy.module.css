@@ -1,0 +1,45 @@
+.phil {
+    padding: 50px ;
+    background-color: #F8F8F8;
+
+  }
+  
+  .philTitle{
+    font-family: 'Kaushan Script', cursive;
+    font-size: 36px;
+    margin-bottom: 30px;
+    color: #333;
+    background-color: #F8F8F8;
+  }
+
+  .img {
+    display: flex;
+    justify-content: space-between; 
+    width: 100%; 
+    height: auto;
+    border-radius: 10px;
+  }
+  
+  .img1,
+  .img2 {
+    width: 50%; 
+    height: auto; 
+    object-fit: cover; 
+  }
+
+  
+.Text {
+    font-family: 'Katibeh', cursive;
+    width: 45%;
+    text-align: left;
+}
+
+.Text h3 {
+    font-size: 28px;
+    margin-bottom: 15px;
+}
+
+.Text p {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
